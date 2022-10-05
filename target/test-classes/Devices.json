@@ -1,0 +1,12 @@
+{
+  "1": {
+    "device": "Google Pixel 3",
+    "os_version": "10.0",
+    "app_url": "bs://5cc6c676bcfaa6348fc0884430ec396b0a2a545e"
+  },
+  "2": {
+    "device": "iPhone XS",
+    "os_version": "14",
+    "app_url": "bs://d42c3184568a369ff0cf95139f96a292c62f8105"
+  }
+}
